@@ -1,10 +1,8 @@
-<p style="text-align: center;">
+<p align="center">
 <img src="icons/me.png" width="200" height="200" />
-
-# Hello \<Developers\>. I'm `Nasser`  
-
 </p>
 
+# Hello \<Developers\>. I'm `Nasser`  
 
 * <img src="icons/instabug.png" width="20" draggable="false"> Software Engineer <a href="https://instabug.com/"> @Instabug</a>.
 * ✨ Building high-performance solutions for real-world challenges.
