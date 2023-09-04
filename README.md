@@ -7,6 +7,7 @@
 * <img src="icons/instabug.png" width="20" draggable="false"> Software Engineer <a href="https://instabug.com/"> @Instabug</a>.
 * ✨ Building high-performance solutions for real-world challenges.
 * 💡 Sharing knowledge [@NasserSpace](https://nasserspace.hashnode.dev/).
+* 📕 Currently reading [Building Micro-Frontends](https://www.oreilly.com/library/view/building-micro-frontends/9781492082989/)
 * 📸 **Photographer** on my free time.
 * You can also, [🎒 Study With Me](https://nasserspace.notion.site/3cd59d30e12a4349949270ff696c9e5b).
 
@@ -40,6 +41,8 @@
 </p>
 
 ### Recently Published
+* [File System Access API: How VSCode.dev Edits Local Files in the Browser](https://nasserspace.hashnode.dev/vscode-file-system-access-api)
+* [Vue 3 Reactivity Explained: A Deep Dive into the "ref" Function](https://nasserspace.hashnode.dev/deep-dive-into-vue-3-ref-function)
 * [Vue 3 Reactivity System Is Brilliant! Here’s How It Works - Part 2: reactive and watchEffect Functions](https://nasserspace.hashnode.dev/vue3-reactivity-building-reactive-watcheffect-functions)
 * [Vue 3 Reactivity System Is Brilliant! Here’s How It Works - Part 1](https://nasserspace.hashnode.dev/vue-3-reactivity-building-trigger-function)
 * [How We Migrated Our Frontend While Scaling at Instabug](https://www.instabug.com/blog/how-we-migrated-our-front-end-while-scaling-at-instabug)
